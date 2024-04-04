@@ -171,7 +171,6 @@ Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso d
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Liste o time responsável pelo desenvolvimento do projeto
 
 | [<img src="https://avatars.githubusercontent.com/u/100246479?v=4" width=115><br><sub>NaraliceCavalcante</sub>](https://github.com/naralicecosta) |
 | :---: |
