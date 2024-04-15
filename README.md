@@ -11,42 +11,23 @@
 
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (Em desenvolvimento)
+> Status do Projeto: :heavy_check_mark:  (Concluido)
 
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Documentação como instalar dependencias e libs que utilizei no projeto](#como-rodar-a-aplicação-arrow_forward)
 
-... 
 
 
 ## Descrição do projeto 
 
 <p align="justify">
-  Sistema de gestão de inscrições online para eventos
+  Sistema de gestão de inscrições online para eventos, onde é possível visualizar os participantes de um evento e data de incrição
 </p>
-
-## Funcionalidades
-
-:heavy_check_mark: Funcionalidade 1  
-
-:heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
-
-## Layout ou Deploy da Aplicação :dash:
-
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
 
 
 
@@ -159,10 +140,6 @@ return (
 ```
 
 
-
-## Casos de Uso
-
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
 
 
 
